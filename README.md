@@ -1,6 +1,6 @@
 # ERP Legacy FoxPro → Python (Migración Progresiva)
 
-Este repositorio contiene un **ejemplo real de migración de un sistema ERP desarrollado en FoxPro 2.5 para DOS** hacia Python.
+Este repositorio contiene un **ejemplo real de migración de un sistema ERP desarrollado en FoxPro 2.5 para DOS** hacia Python con la ayuda de la Inteligencia Artificial.
 
 El sistema original está compuesto por:
 
