@@ -192,7 +192,6 @@ Interés en:
 
 * Migración de sistemas legacy
 * Data Science
-* Backend
 * Seguridad informática
 
 ---
